@@ -1,0 +1,2 @@
+Its a simple Python Commandline Ytmanager project that uses Json to store the details of Videos.
+It also supports different Operations like CRUD.
